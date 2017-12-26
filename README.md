@@ -27,6 +27,6 @@ Please keep in mind it was a VERY quick and dirty solution just as a proof of co
 
 # Screenshots
 
-![Screenshot 1](/screenshots/screen1.jpg?raw=true "Screenshot 1")
-![Screenshot 2](/screenshots/screen2.jpg?raw=true "Screenshot 2")
-![Screenshot 3](/screenshots/screen3.jpg?raw=true "Screenshot 3")
+![Screenshot 1](/screenshots/screen1.png?raw=true "Screenshot 1")
+![Screenshot 2](/screenshots/screen2.png?raw=true "Screenshot 2")
+![Screenshot 3](/screenshots/screen3.png?raw=true "Screenshot 3")
