@@ -1,0 +1,4 @@
+export const FETCH_IMAGES = 'FETCH_IMAGES';
+export const SET_MULTIPLE_IMAGES = 'SET_MULTIPLE_IMAGES';
+export const SET_IMAGES = 'SET_IMAGES';
+export const REMOVE_IMAGE = 'REMOVE_IMAGE';

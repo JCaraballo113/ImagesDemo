@@ -1,0 +1,86 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.slider_custom {
+  margin-top: 10%;
+  width:100%;
+  background: grey;
+  padding:10px;
+}
+
+.slider_image {
+  width:100%;
+}
+
+.dropzone {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  background: darkgrey;
+  border-radius: 20px;
+  padding: 10px;
+  padding-bottom: 0px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.dropzone__image {
+  width: 200px;
+  height:200px;
+  display: inline-block;
+}
+
+.image_box {
+  width:200px;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.image_delete {
+  position: absolute;
+left: 90%;
+z-index: 99;
+padding: 10px;
+background: red;
+color:white;
+border-radius: 50%;
+cursor: pointer;
+}
+
+.images_list {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
