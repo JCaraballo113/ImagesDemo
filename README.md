@@ -24,3 +24,9 @@ Please keep in mind it was a VERY quick and dirty solution just as a proof of co
  - Add the config in App.js however you like. Right now I just require a config object in a firebase folder
  - `yarn install`
  - `yarn start`
+
+# Screenshots
+
+![Screenshot 1](/screenshots/screen1.jpg?raw=true "Screenshot 1")
+![Screenshot 2](/screenshots/screen2.jpg?raw=true "Screenshot 2")
+![Screenshot 3](/screenshots/screen3.jpg?raw=true "Screenshot 3")
